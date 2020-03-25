@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: rodrigo
+Build-Jdk: 9.0.4
+Implementation-Title: monitoramento
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: br.com.alura
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/monitoramento
+Created-By: Maven Integration for Eclipse
+
